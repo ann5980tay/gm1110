@@ -1,4 +1,4 @@
 <?php
-header("Location: https://start-your-product.site/actnor");
+header("Location: https://www.confluxgs.com/3/conflux-gardening-services");
 die();
 ?>
