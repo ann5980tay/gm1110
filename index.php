@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.confluxgs.com/3/conflux-gardening-services");
+header("Location: https://citypest.ca/Cockroach-Control.html");
 die();
 ?>
