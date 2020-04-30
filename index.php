@@ -1,4 +1,4 @@
 <?php
-header("Location: https://citypest.ca/Cockroach-Control.html");
+header("Location: https://luxe.digital/lifestyle/style/men-casual-dress-code-guide/");
 die();
 ?>
